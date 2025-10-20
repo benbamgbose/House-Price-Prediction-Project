@@ -27,4 +27,5 @@ This indicates that the model can explain about 91.5% of the variance in house p
 ![Model Comparison](results_model_comparison.png)
 
 **Actual vs. Predicted Prices (Linear Regression):**
+
 ![Actual vs Predicted](results_actual_vs_predicted.png)
